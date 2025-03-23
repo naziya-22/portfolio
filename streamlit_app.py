@@ -52,7 +52,7 @@ st.markdown("# 🎉 Naziya Mahimkar's Portfolio")
 intro_col1,intro_col2 = st.columns(2)
 with intro_col2:
     st.header(' ')
-    st.image(r'images\final image.png', width=300)
+    st.image(r'portfolio/final image.png', width=300)
 
 with intro_col1:
     st.markdown("### Hi, I'm Naziya Mahimkar!")
@@ -135,7 +135,7 @@ with proj_col3:
 
 # Articles Section
 st.markdown("## 📝 Articles")
-st.image(r'images\blog.png')
+st.image(r'portfolio/blog.png')
 st.write("[Read my articles on Medium](https://medium.com/@naziyamahimkar13)")
 
 # Footer
