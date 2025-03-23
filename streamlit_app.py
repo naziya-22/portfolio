@@ -52,7 +52,7 @@ st.markdown("# 🎉 Naziya Mahimkar's Portfolio")
 intro_col1,intro_col2 = st.columns(2)
 with intro_col2:
     st.header(' ')
-    st.image(r'portfolio/final image.png', width=300)
+    st.image(r'images/final image.png', width=300)
 
 with intro_col1:
     st.markdown("### Hi, I'm Naziya Mahimkar!")
