@@ -135,7 +135,7 @@ with proj_col3:
 
 # Articles Section
 st.markdown("## 📝 Articles")
-st.image(r'portfolio/blog.png')
+st.image(r'images/blog.png')
 st.write("[Read my articles on Medium](https://medium.com/@naziyamahimkar13)")
 
 # Footer
